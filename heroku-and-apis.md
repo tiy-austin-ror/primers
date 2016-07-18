@@ -6,7 +6,7 @@ For the following examples we are assuming you are in a folder called `my_projec
 
 ### Creating a new Heroku app
 ```sh
-[my_project][master]$ heroku create
+[my_project][master]$ heroku create NAME_OF_APP_YOU_WANT_ON_HEROKU
 ```
 ### Deploying code to heroku
 ```sh
